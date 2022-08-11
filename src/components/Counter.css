@@ -1,0 +1,15 @@
+.btnContainer{
+    display: flex;
+}
+.btnStyle{
+    padding: 5px 20px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    margin: .5rem;
+    font-size: large;
+}
+.btnStyle:hover {
+    background-color: rgb(39, 41, 38);
+    color: white
+}
